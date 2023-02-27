@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Encryption</title>
+  <link href="styles.css" rel="stylesheet">
+  <script src="script.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Cyber Security Revision Guide</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="introduction.html">Introduction</a></li>
+        <li><a href="network_security.html">LO1</a></li>
+        <li><a href="encryption.html">Encryption</a></li>
+        <li><a href="authentication.html">Authentication</a></li>
+        <li><a href="malware.html">Malware</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h2>LO2 - Understanding the issues surrounding cyber security</h2>
+    <section>
+    	<h3>2.1 Threats to cyber security</h3>
+    	<p>•Vulnerabilities – any weakness within a computer system, network and/or procedures that leaves the security of information exposed to a threat from a cyber attack, including: </p>
+    	<p>-system attacks – for example DoS, botnet, social engineering </p>
+    	<p>-physical – for example theft of portable equipment such as laptops, tablets and portable drives </p>
+    	<p>-environmental – for example floods, fire and earthquakes.</p>   	
+	    <p>• Accidental – unintentional events, for example spilling liquid on a computer, responding to a phishing email, accidental uploading of malware, accidental deletion of data.</p>
+    	<p>• Intentional – criminal activities intent on harming computer systems, for example hacking, social engineering, DoS, botnet.</p>
+    	<p>• Organised crime:</p>
+    	<p>-cyber-enabled crime – for example fraud, theft and bullying using IT</p>
+    	<p>-cyber-dependent crime – crime that can only be carried out using computer networks and systems, for example spreading malware, hacking and DoS.</p>
+    	<p>• State-sponsored – countries spying on each other to obtain information such as on military campaigns, nuclear facilities and government policies, and to spread fake news.</p>
+    </section>
+    <section>
+	    <h3>	
+    	<p>
+    	<p>
+    	<p>
+    	<p>
+    	<p>
+    	<p>
+    	<p>
+    	<p>
+    	<p>
+    	<p>
+    	<p>
+    	<p>
+    	<p>
+  </main>
+  <footer>
+    <p>Copyright ©2023 Cyber Security Revision Guide</p>
+  </footer>
+</body>
+</html>
